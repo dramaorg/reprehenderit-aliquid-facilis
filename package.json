@@ -1,18 +1,72 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@dramaorg/reprehenderit-aliquid-facilis",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "dramatinahj",
   "license": "MIT",
+  "dependencies": {
+    "@dramaorg/aperiam-nostrum-iste": "^1.0.3",
+    "@dramaorg/architecto-hic-odit": "^1.0.3",
+    "@dramaorg/assumenda-vel-animi": "^1.0.3",
+    "@dramaorg/cum-praesentium-quod": "^1.1.2",
+    "@dramaorg/deserunt-fugiat-molestiae": "^2.0.2",
+    "@dramaorg/dolorum-placeat-quidem": "^1.0.3",
+    "@dramaorg/ducimus-iusto-dolore": "^1.0.3",
+    "@dramaorg/eius-impedit-aperiam": "^1.2.1",
+    "@dramaorg/esse-praesentium-eligendi": "^1.0.3",
+    "@dramaorg/esse-quod-beatae": "^1.0.3",
+    "@dramaorg/facere-deserunt-repellendus": "^1.0.3",
+    "@dramaorg/fuga-vel-natus": "^1.0.3",
+    "@dramaorg/harum-in-quibusdam": "^1.0.3",
+    "@dramaorg/laudantium-eum-labore": "^1.1.2",
+    "@dramaorg/literate-doodle": "^2.0.0",
+    "@dramaorg/maxime-esse-consequatur": "^1.0.3",
+    "@dramaorg/nihil-voluptatibus-necessitatibus": "^1.0.3",
+    "@dramaorg/odit-est-nemo": "^1.1.2",
+    "@dramaorg/perspiciatis-ipsa-doloremque": "^1.0.3",
+    "@dramaorg/psychic-couscous": "^1.1.8",
+    "@dramaorg/quae-dolore-nostrum": "^1.0.3",
+    "@dramaorg/quam-minus-maxime": "^1.0.2",
+    "@dramaorg/quidem-minima-et": "^1.0.3",
+    "@dramaorg/repudiandae-placeat-id": "^1.0.3",
+    "@dramaorg/shiny-waddle": "^1.2.6",
+    "@dramaorg/solid-octo": "^1.1.5",
+    "@dramaorg/vitae-quasi-ea": "^1.1.2",
+    "@dramaorg/voluptate-exercitationem-qui": "^1.1.2",
+    "@dramaorg/voluptate-voluptatum-blanditiis": "^1.0.3",
+    "@dramaorg/voluptates-tempore-esse": "^1.0.3",
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
+  },
+  "keywords": [
+    "higher-order",
+    "require",
+    "Observable",
+    "type",
+    "modules",
+    "events",
+    "fixed-width",
+    "positive",
+    "persistent",
+    "cjk",
+    "map",
+    "class-validator",
+    "Function.prototype.name",
+    "dynamodb"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/dramaorg/reprehenderit-aliquid-facilis.git"
   },
-  "dependencies": {
-    
+  "homepage": "https://github.com/dramaorg/reprehenderit-aliquid-facilis/#readme",
+  "bugs": {
+    "url": "https://github.com/dramaorg/reprehenderit-aliquid-facilis/issues"
   }
 }
